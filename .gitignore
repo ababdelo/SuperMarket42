@@ -1,0 +1,22 @@
+
+# Ignore OS-specific files
+.DS_Store                # macOS
+Thumbs.db                # Windows
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore virtual environment directories
+.venv/
+
+# Ignore History files
+.history/
+
+# Ignore temporary files or caches
+*.swp
+*.swo
+
+# Ignore cache and temp files
+Temp/
+cache/
